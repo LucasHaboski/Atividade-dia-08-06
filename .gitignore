@@ -1,0 +1,18 @@
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Modelo treinado
+models/best_model.pkl
+
+# Figuras geradas
+figures/*.png
+
+# Jupyter
+.ipynb_checkpoints/
